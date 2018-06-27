@@ -1,4 +1,4 @@
-## Simple Live Editor - [DEMO](https://willianjusten.com.br/dumb-codepen/)
+## Simple Live Editor - [DEMO](https://osantosdesign.github.io/live-editor/)
 
 ![Preview do Site](/img/cover.png)
 
